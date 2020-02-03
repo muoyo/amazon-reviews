@@ -1,4 +1,4 @@
-## Can Amazon Reviews Help Businesses Learn to Find their Best Customers? 
+## Can Amazon Reviews Help Businesses Learn their Best Customers? 
 
 ## Goals
 
