@@ -14,8 +14,8 @@ Eventually our goal is to provide these insights to businesses as a service to h
 
 ## Summary & Links to Files:
 - [Slide Deck (PDF)](presentation/amazon.pdf)
-- [Data Sources](data/sources.md)
-    - [CSV Files](data/)
+- Data Sources
+    - [Amazon Customer Reviews Dataset](https://registry.opendata.aws/amazon-reviews/)
 - [Notebooks](notebooks/)
     - [Technical Notebook](notebooks/amazon.ipynb)
     - [Exploratory Data Analysis](notebooks/amazon_EDA.ipynb)
