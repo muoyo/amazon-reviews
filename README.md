@@ -17,7 +17,7 @@ Eventually our goal is to provide these insights to businesses as a service to h
 - [Data Source:](https://registry.opendata.aws/amazon-reviews/) [Amazon Customer Reviews Dataset](https://registry.opendata.aws/amazon-reviews/)
 - [Notebooks](notebooks/)
     - [Technical Notebook](notebooks/amazon.ipynb)
-    - [Exploratory Data Analysis](notebooks/amazon_EDA.ipynb)
+    - [Exploratory Data Analysis](notebooks/amazon_eda.ipynb)
     - [Word Cloud Exploration](notebooks/wordcloud.ipynb)
 - [Python Files](python_files/)
     - [Utilities](python_files/utils.py)
