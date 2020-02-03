@@ -5,7 +5,7 @@
 
 The key question we look to answer is whether knowing the text of an Amazon Customer Review can help us predict the star rating of that review.
 
-Eventually our goal is to provide these insights to businesses as a service to help them identify customers most likely to love or hate their products based on the things they are saying about them.
+Eventually our goal is to provide these insights to businesses as a service to help them identify customers most likely to love or hate their products based on the things they are saying.
 
 
 ## Contributors:
