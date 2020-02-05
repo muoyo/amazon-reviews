@@ -8,12 +8,25 @@ This module contains the functions for all the visualizations for our project.
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-
+from wordcloud import WordCloud, STOPWORDS
 
 # Controls appearance of seaborn plots. Options: paper, notebook, talk, or poster
 SEABORN_CONTEXT = 'notebook' 
 SEABORN_PALETTE = sns.color_palette("bright")
 sns.set_context(SEABORN_CONTEXT)
+
+def wordcloud(wordstring, stopwords=False, figsize=(20,20)):
+    sw = set(STOPWORDS)
+    if stopwords: sw.update(stopwords)
+    
+    # Create and generate a word cloud image:
+    wordcloud = WordCloud(stopwords=sw).generate(wordstring)
+    
+    # Display the generated image:
+    plt.figure(figsize=figsize)
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
 
 
 def barplot(group_series, title='', xlabel='', ylabel='', figsize=(15,10), color=SEABORN_PALETTE[2]):
