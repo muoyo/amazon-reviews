@@ -5,7 +5,7 @@
 
 The key question we look to answer is whether knowing the text of an Amazon Customer Review can help us predict the star rating of that review.
 
-Eventually our goal is to provide these insights to businesses as a service to help them identify customers most likely to love or hate their products based on the things they are saying.
+Our goal is to eventually improve our process to a level where it can be deployed on customer conversations anywhere to help businesses identify customers most likely to love or hate their products based on the things they are saying.
 
 
 ## Contributors:
@@ -20,8 +20,9 @@ Eventually our goal is to provide these insights to businesses as a service to h
     - [Exploratory Data Analysis](notebooks/amazon_eda.ipynb)
     - [Word Cloud Exploration](notebooks/wordcloud.ipynb)
 - [Python Files](python_files/)
-    - [Utilities](python_files/utils.py)
+    - [Language Processing](python_files/nlp.py)
     - [Data Cleaning](python_files/data_cleaning.py)
+    - [Classification](python_files/classification.py)
     - [Visualizations](python_files/visualizations.py)
 
 <p><!--<img src='images/rideshare.jpeg'>-->
