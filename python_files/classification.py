@@ -1,7 +1,7 @@
 """
-##### DATA VISUALIZATIONS #####
+##### CLASSIFICATION #####
 
-This module contains our functions for linear regression.
+This module contains our functions for classification analysis.
 
 """
 
