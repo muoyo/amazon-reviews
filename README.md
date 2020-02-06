@@ -25,4 +25,4 @@ Our goal is to eventually improve our process to a level where it can be deploye
     - [Classification](python_files/classification.py)
     - [Visualizations](python_files/visualizations.py)
 
-<p><img src='images/apple-watch.jpg'>
+<p><img src='images/wordcloud.jpg'>
