@@ -1,5 +1,7 @@
 ## Can Amazon Reviews Help Businesses Learn their Best Customers? 
 
+<p align='center'><img src='images/wordcloud.png' width=800>
+
 ## Goals
 
 
@@ -25,4 +27,4 @@ Our goal is to eventually improve our process to a level where it can be deploye
     - [Classification](python_files/classification.py)
     - [Visualizations](python_files/visualizations.py)
 
-<p><img src='images/wordcloud.png' width=500>
+
