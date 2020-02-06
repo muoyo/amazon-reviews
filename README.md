@@ -1,6 +1,6 @@
 ## Can Amazon Reviews Help Businesses Learn their Best Customers? 
 
-<p><img src='images/wordcloud.png' width=550>
+<p><img src='images/wordcloud.png' width=400>
 
 ## Goals
 
